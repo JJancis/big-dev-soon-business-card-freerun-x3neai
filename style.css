@@ -2,7 +2,8 @@ body {
     background-color: #C8E6C9;
   }
   .card{
-    width:auto;
-    height: 500px;
+    width:1122px;
+    height: 667px;
     background-color: white;
+    border-radius: 20px;
   }
